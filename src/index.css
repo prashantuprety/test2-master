@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* yo ailay ko lagi matrai */
+/* body {
+  background-color: rgb(254, 254, 254);
+  overflow-x: hidden;
+} */
+/* ya samman */
+body {
+  background-color: rgb(237, 240, 245);
+  overflow-x: hidden;
+}
+/* .card-body {
+  background-color: hsl(225, 3%, 25%);
+}
+.card.text-white {
+  background-color: hsl(225, 3%, 25%);
+}
+.row {
+  background-color: hsl(225, 3%, 25%);
+}
+
+.col {
+  background-color: hsl(225, 3%, 25%);
+}
+
+.card-text {
+  background-color: hsl(225, 3%, 25%);
+}
+
+.card-header {
+  background-color: hsl(225, 3%, 25%);
+}
+.card {
+  background-color: hsl(225, 3%, 25%);
+}
+.text-color {
+  color: hsl(150, 100%, 100%);
+} */
+.cdd {
+  background-color: rgb(181, 171, 158);
+}
+.circular--portrait {
+  /* border: 60px;
+  background-color: rgb(11, 12, 52); */
+
+  /* background: #122a6c; */
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: 10px;
+  align-items: center;
+  text-align: center;
+  /* grid-area: overlap;
+  align-self: center;
+  justify-self: center; */
+}
+
+.circular--portrait img {
+  max-width: 50%;
+}
+.bb {
+  background: #122a6c;
+  width: 30px;
+  height: 30px;
+}
+.button {
+  width: 90%;
+}
+.cc {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #ffffff;
+  margin-top: 10px;
+
+  align-items: center;
+  text-align: center;
+}
+
+/* .button:hover {
+  background-color: #002ead;
+  transition: 0.7s;
+}
+
+.button:active {
+  background-color: #ffbf00;
+}
+@media (max-width: 580px) {
+  .button {
+    width: 50%;
+  }
+} */
